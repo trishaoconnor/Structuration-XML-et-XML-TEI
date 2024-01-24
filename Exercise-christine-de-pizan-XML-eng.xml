@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <metadata>
+        <title>Seulete suy et seulete vueil estre</title>
+        <author>Christine de Pizan</author>
+        <source ref="https://fr.wikisource.org/wiki/Cent_Ballades_(Christine_de_Pisan)/Ballade_XI">
+            Texte de l'édition de Maurice Roy des Cent Ballades, Firmin Didot, 1886, disponible sur
+            Wikisource </source>
+        <creation>
+            <creator>Patricia O Connor</creator>
+            <objective>Encoding text as part of an XML language exercise</objective>
+            <date>25 January 2024</date>
+        </creation>
+    </metadata>
+    <text>
+        <div type="ballad" n="011">
+
+            <stanza n="01">
+                <vers n="01">
+                    <hi rend="dropcap">S</hi>
+                    <hi rend="indent">eulete suy et seulete vueil estre,</hi>
+                </vers>
+                <vers n="02">
+                    <hi rend="indent">Seulete m’a mon doulz ami laissiée,</hi>
+                </vers>
+                <vers n="03">Seulete suy, sanz compaignon ne maistre, </vers>
+                <vers n="04">Seulete suy, dolente et courrouciée, </vers>
+                <vers n="05">Seulete suy en languour mesaisiée, </vers>
+                <vers n="06">Seulete suy plus que nulle esgarée, </vers>
+                <vers n="07">Seulete suy sanz ami demourée. </vers>
+            </stanza>
+
+            <stanza n="02">
+                <vers n="08">Seulete suy a huis ou a fenestre, </vers>
+                <vers n="09">Seulete suy en un anglet muciée, </vers>
+                <vers n="10">Seulete suy pour moy de plours repaistre, </vers>
+                <vers n="11">Seulete suy, dolente ou apaisiée, </vers>
+                <vers n="12">Seulete suy, riens n’est qui tant me siée <note type="variant">
+                        <witness>A1</witness>
+                        <variant>messiée</variant>
+                    </note>, </vers>
+                <vers n="13">Seulete suy en ma chambre enserrée, </vers>
+                <vers n="14">Seulete suy sanz ami demourée. </vers>
+            </stanza>
+
+            <stanza n="03">
+                <vers n="15">Seulete suy partout et en tout estre. </vers>
+                <vers n="16">Seulete suy, ou je voise ou je siée, <note type="variant">
+                        <witness>A1</witness>
+                        <variant>abaissié</variant>
+                    </note>, </vers>
+                <vers n="17">Seulete suy plus qu’autre riens terrestre, </vers>
+                <vers n="18">Seulete suy de chascun delaissiée, </vers>
+                <vers n="19">Seulete suy durement abaissiée, </vers>
+                <vers n="20">Seulete suy souvent toute esplourée, </vers>
+                <vers n="21">Seulete suy sanz ami demourée. </vers>
+            </stanza>
+
+            <stanza n="04">
+                <note type="variant">
+                    <witness>B</witness>
+                    <variant>Lines 22 to 25 are omitted in B</variant>
+                    <vers n="22">Princes, or est ma doulour commenciée : </vers>
+                    <vers n="23">Seulete suy de tout dueil menaciée, </vers>
+                    <vers n="24">Seulete suy plus tainte que morée, </vers>
+                    <vers n="25">Seulete suy sanz ami demourée. </vers>
+                </note>
+            </stanza>
+
+        </div>
+    </text>
+</document>
